@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="{:DI}Avzt:cNK46C^U$5" x="357" y="-23"><statement name="HANDLER"><block type="device_show_leds" id="n~yE(]lnjCmv3GnZcD)r"><field name="LEDS">`
+        . # . . # 
+        . # . . # 
+        . # # # # 
+        . # . . # 
+        . # . . #
+        `</field><next><block type="device_pause" id="Qk;7.V;d^{2w7sC;gftr"><value name="pause"><shadow type="timePicker" id="v@VN#MoJV/)3*h)~_DL0"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="bD~a?EucXhij61qr#+E5"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # # # # # 
+        # . . . #
+        `</field><next><block type="device_pause" id="lRFz4g0n.N:abIb-m|.I"><value name="pause"><shadow type="timePicker" id="cVFD=!?4ga*Wi$K.(J7+"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="/f`x2:]NedWB+*(y5S3f"><field name="LEDS">`
+        # # . # # 
+        # . # . # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_pause" id="X0?viDMY|dGQ6wK0EK9S"><value name="pause"><shadow type="timePicker" id="xQF:a5Oz`to9UgF8Kuo+"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="c5ftzFuNobLpv@Qa[s6o"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_pause" id="+.w]]s5l#=zc2dn^m1e^"><value name="pause"><shadow type="timePicker" id="OeN,`IBO`XiY_[*o34@M"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="k]Z~y,b{0yxDXqNn10:$"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # # # # # 
+        # . . . #
+        `</field><next><block type="device_pause" id="PL5DL__45H|]*rV(MaB_"><value name="pause"><shadow type="timePicker" id="4#sh*!Evd8hT1{BB5D?t"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="ZNmD+~-RA[In,wO~xd_%" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="Eg$.ow#2,]3AvRbZLC~M"><value name="text"><shadow type="text" id="iEeSuz)%5)]5u|4-*YAo"><field name="TEXT">Hamna</field></shadow></value></block></statement></block></xml>
